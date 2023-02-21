@@ -1,8 +1,8 @@
-# CallCenterDashboard
+# Call Center Analysis
 
-Topic: Call Center KPI Dashboard
-Data Source: Quantum Analytics NG
-Data Visualization Tool: Microsoft Power BI
+Topic: Call Center KPI Dashboard <br/>
+Data Source: Quantum Analytics NG <br/>
+Data Visualization Tool: Microsoft Power BI <br/>
 
 Insights Generated:
 1. Total calls
