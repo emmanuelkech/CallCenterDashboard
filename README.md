@@ -18,3 +18,5 @@ Insights Generated:
 11. Total calls by agents 
 
 YouTube: https://youtu.be/lPP68oCv8b4
+
+![call-center-db](https://user-images.githubusercontent.com/88853963/220463418-7ecadfa1-2bfc-4e7c-98de-8f333de3dee6.png)
