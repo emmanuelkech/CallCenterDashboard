@@ -1,6 +1,6 @@
 # Call Center Analysis
 
-**Data Source:** *Quantum Analytics NG* <br/>
+**Data Source:** *Quantum Analytics* <br/>
 **Data Visualization Tool:** *Microsoft Power BI* <br/>
 
 ## Goal
